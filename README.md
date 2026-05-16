@@ -1,11 +1,9 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
-# Date:
-# Register no.
-# Aim: To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
-
-#AI Tools Required: 
-
+# Date:16/05/26
+# Register no:212224100030
+# Aim:
+To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
 # Explanation: 
 Prompt:
@@ -30,6 +28,8 @@ o Notify user of overlapping appointments or free time slots.
 o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
 o Adapt suggestions based on past user preferences and responses.
 
+# Output:
+[PE ex 7.pdf](https://github.com/user-attachments/files/27853150/PE.ex.7.pdf)
 
 
 # Result: 
